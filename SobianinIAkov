@@ -1,0 +1,6 @@
+<script type="text/javascript">
+window.onscroll = function() {
+  var scrolled = window.pageYOffset || document.documentElement.scrollTop;
+  document.getElementById('nav').classList.add('*ИМЯ КЛАССА*');
+}
+</script>
